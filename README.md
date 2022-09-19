@@ -14,6 +14,9 @@
    - Use Postman to test the 2 API calls to see if they work as expected.
    - Update `activity_main.xml` to create UI.
    - Use Kotlin to implement API Service Interface and add onClick listeners in `MainActivity.kt`
+  
+ - Preview:
+ ![alt text](https://raw.githubusercontent.com/lowdrag-zty/Android/main/screen.png)
  
 
 
